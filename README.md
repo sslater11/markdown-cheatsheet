@@ -10,6 +10,16 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup :  ============= (below H1 text)
 
+
+
+# doing a test for me
+yay
+----
+# doint another test
+wooooo
+
+
+
 ## Heading 2 ##
 
     Markup :  ## Heading 2 ##
