@@ -18,6 +18,11 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup: --------------- (below H2 text)
 
+# doing a test for myself
+yay
+----
+# another
+wooooo
 ### Heading 3 ###
 
     Markup :  ### Heading 3 ###
